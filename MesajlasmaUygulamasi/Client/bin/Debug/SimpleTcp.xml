@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SimpleTcp</name>
+    </assembly>
+    <members>
+        <member name="T:SimpleTcp.ClientConnectedEventArgs">
+            <summary>
+            Arguments for client connection events.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.ClientConnectedEventArgs.IpPort">
+            <summary>
+            The IP address and port number of the connected client socket.
+            </summary>
+        </member>
+        <member name="T:SimpleTcp.ClientDisconnectedEventArgs">
+            <summary>
+            Arguments for client disconnection events.
+            Only the server has visibility to disconnect reasons, as this information is not sent to the client.
+            To the client, every disconnect appears to be a normal disconnect.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.ClientDisconnectedEventArgs.IpPort">
+            <summary>
+            The IP address and port number of the disconnected client socket.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.ClientDisconnectedEventArgs.Reason">
+            <summary>
+            The reason for the disconnection.
+            </summary>
+        </member>
+        <member name="T:SimpleTcp.DataReceivedEventArgs">
+            <summary>
+            Arguments for data received from connected endpoints.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.DataReceivedEventArgs.IpPort">
+            <summary>
+            The IP address and port number of the connected endpoint.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.DataReceivedEventArgs.Data">
+            <summary>
+            The data received from the client.
+            </summary>
+        </member>
+        <member name="T:SimpleTcp.DisconnectReason">
+            <summary>
+            Reason why a client disconnected.
+            </summary>
+        </member>
+        <member name="F:SimpleTcp.DisconnectReason.Normal">
+            <summary>
+            Normal disconnection.
+            </summary>
+        </member>
+        <member name="F:SimpleTcp.DisconnectReason.Kicked">
+            <summary>
+            Client connection was intentionally terminated programmatically or by the server.
+            </summary>
+        </member>
+        <member name="F:SimpleTcp.DisconnectReason.Timeout">
+            <summary>
+            Client connection timed out; server did not receive data within the timeout window.
+            </summary>
+        </member>
+        <member name="T:SimpleTcp.SimpleTcpClient">
+            <summary>
+            SimpleTcp client with SSL support.  
+            Set the Connected, Disconnected, and DataReceived events.  
+            Once set, use Connect() to connect to the server.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClient.IsConnected">
+            <summary>
+            Indicates whether or not the client is connected to the server.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClient.Settings">
+            <summary>
+            SimpleTcp client settings.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClient.Events">
+            <summary>
+            SimpleTcp client events.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClient.Statistics">
+            <summary>
+            SimpleTcp statistics.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClient.Keepalive">
+            <summary>
+            SimpleTcp keepalive settings.
+            </summary>
+        </member>
+        <member name="F:SimpleTcp.SimpleTcpClient.Logger">
+            <summary>
+            Method to invoke to send a log message.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClient.ServerIpPort">
+            <summary>
+            The IP:port of the server to which this client is mapped.
+            </summary>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.#ctor(System.String)">
+            <summary>
+            Instantiates the TCP client without SSL.  Set the Connected, Disconnected, and DataReceived callbacks.  Once set, use Connect() to connect to the server.
+            </summary>
+            <param name="ipPort">The IP:port of the server.</param> 
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.#ctor(System.String,System.Int32)">
+            <summary>
+            Instantiates the TCP client without SSL.  Set the Connected, Disconnected, and DataReceived callbacks.  Once set, use Connect() to connect to the server.
+            </summary>
+            <param name="serverIpOrHostname">The server IP address or hostname.</param>
+            <param name="port">The TCP port on which to connect.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.#ctor(System.String,System.Boolean,System.String,System.String)">
+            <summary>
+            Instantiates the TCP client.  Set the Connected, Disconnected, and DataReceived callbacks.  Once set, use Connect() to connect to the server.
+            </summary>
+            <param name="ipPort">The IP:port of the server.</param> 
+            <param name="ssl">Enable or disable SSL.</param>
+            <param name="pfxCertFilename">The filename of the PFX certificate file.</param>
+            <param name="pfxPassword">The password to the PFX certificate file.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.#ctor(System.String,System.Int32,System.Boolean,System.String,System.String)">
+            <summary>
+            Instantiates the TCP client.  Set the Connected, Disconnected, and DataReceived callbacks.  Once set, use Connect() to connect to the server.
+            </summary>
+            <param name="serverIpOrHostname">The server IP address or hostname.</param>
+            <param name="port">The TCP port on which to connect.</param>
+            <param name="ssl">Enable or disable SSL.</param>
+            <param name="pfxCertFilename">The filename of the PFX certificate file.</param>
+            <param name="pfxPassword">The password to the PFX certificate file.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Dispose">
+            <summary>
+            Dispose of the TCP client.
+            </summary>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Connect">
+            <summary>
+            Establish a connection to the server.
+            </summary>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.ConnectWithRetries(System.Nullable{System.Int32})">
+            <summary>
+            Establish the connection to the server with retries up to either the timeout specified or the value in Settings.ConnectTimeoutMs.
+            </summary>
+            <param name="timeoutMs">The amount of time in milliseconds to continue attempting connections.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Disconnect">
+            <summary>
+            Disconnect from the server.
+            </summary>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Send(System.String)">
+            <summary>
+            Send data to the server.
+            </summary>
+            <param name="data">String containing data to send.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Send(System.Byte[])">
+            <summary>
+            Send data to the server.
+            </summary> 
+            <param name="data">Byte array containing data to send.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Send(System.Int64,System.IO.Stream)">
+            <summary>
+            Send data to the server.
+            </summary>
+            <param name="contentLength">The number of bytes to read from the source stream to send.</param>
+            <param name="stream">Stream containing the data to send.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.SendAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Send data to the server asynchronously.
+            </summary>
+            <param name="data">String containing data to send.</param>
+            <param name="token">Cancellation token for canceling the request.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.SendAsync(System.Byte[],System.Threading.CancellationToken)">
+            <summary>
+            Send data to the server asynchronously.
+            </summary> 
+            <param name="data">Byte array containing data to send.</param>
+            <param name="token">Cancellation token for canceling the request.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.SendAsync(System.Int64,System.IO.Stream,System.Threading.CancellationToken)">
+            <summary>
+            Send data to the server asynchronously.
+            </summary>
+            <param name="contentLength">The number of bytes to read from the source stream to send.</param>
+            <param name="stream">Stream containing the data to send.</param>
+            <param name="token">Cancellation token for canceling the request.</param>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClient.Dispose(System.Boolean)">
+            <summary>
+            Dispose of the TCP client.
+            </summary>
+            <param name="disposing">Dispose of resources.</param>
+        </member>
+        <member name="T:SimpleTcp.SimpleTcpClientEvents">
+            <summary>
+            SimpleTcp client events.
+            </summary>
+        </member>
+        <member name="E:SimpleTcp.SimpleTcpClientEvents.Connected">
+            <summary>
+            Event to call when the connection is established.
+            </summary>
+        </member>
+        <member name="E:SimpleTcp.SimpleTcpClientEvents.Disconnected">
+            <summary>
+            Event to call when the connection is destroyed.
+            </summary>
+        </member>
+        <member name="E:SimpleTcp.SimpleTcpClientEvents.DataReceived">
+            <summary>
+            Event to call when byte data has become available from the server.
+            </summary>
+        </member>
+        <member name="M:SimpleTcp.SimpleTcpClientEvents.#ctor">
+            <summary>
+            Instantiate the object.
+            </summary>
+        </member>
+        <member name="T:SimpleTcp.SimpleTcpClientSettings">
+            <summary>
+            SimpleTcp client settings.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClientSettings.StreamBufferSize">
+            <summary>
+            Buffer size to use while interacting with streams. 
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClientSettings.ConnectTimeoutMs">
+            <summary>
+            The number of milliseconds to wait when attempting to connect.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClientSettings.IdleServerTimeoutMs">
+            <summary>
+            Maximum amount of time to wait before considering the server to be idle and disconnecting from it. 
+            By default, this value is set to 0, which will never disconnect due to inactivity.
+            The timeout is reset any time a message is received from the server.
+            For instance, if you set this value to 30000, the client will disconnect if the server has not sent a message to the client within 30 seconds.
+            </summary>
+        </member>
+        <member name="P:SimpleTcp.SimpleTcpClientSettings.IdleServerEvaluationIntervalMs">
+            <summary>
+            Number of milliseconds to wait between each iteration of evaluating the server connection to see if the configured timeout interval has been exceeded.
+            </summa

@@ -1,0 +1,178 @@
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\TUBA AKBAŞ\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\Downloads\_ClientServer_ (1)\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\source\repos\Sifre uygulaması server mesaj client\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\Desktop\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\hydon\Desktop\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\hydon\source\repos\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\MetroFramework.dll
+C:\Users\hydon\source\repos\_ClientServer_\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\MetroFramework.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 03.12.2021 17.10\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\MetroFramework.dll
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\hydon\source\repos\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\MetroFramework.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\Desktop\Sifre uygulamasi 04.12.2021 18.49\Sifre uygulamasi 04.12.2021\Sifre uygulamasi 04.12.2021\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\Server.exe.config
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\Server.pdb
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\MetroFramework.dll
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\SimpleTcp.dll
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\SimpleTcp.xml
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.exe
+C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Server\obj\Debug\Server.pdb
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\Server.exe
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\Server.pdb
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\MetroFramework.dll
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.exe
+C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.pdb
