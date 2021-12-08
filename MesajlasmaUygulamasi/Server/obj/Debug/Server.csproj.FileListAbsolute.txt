@@ -176,3 +176,22 @@ C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.csproj.Gene
 C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.exe
 C:\Users\hydon\Desktop\Mesajlasma Uygulamasi\Server\obj\Debug\Server.pdb
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\Server.exe.config
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\Server.exe
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\Server.pdb
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\MetroFramework.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.exe
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Server\obj\Debug\Server.pdb

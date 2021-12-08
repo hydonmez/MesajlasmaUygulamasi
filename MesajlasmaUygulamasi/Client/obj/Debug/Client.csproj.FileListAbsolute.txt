@@ -173,3 +173,25 @@ C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Client\obj\Debug\Client.csproj.CoreC
 C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Client\obj\Debug\Client.csproj.CopyComplete
 C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Client\obj\Debug\Client.exe
 C:\Users\TUBA AKBAŞ\Desktop\_ClientServer_\Client\obj\Debug\Client.pdb
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Client.exe.config
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Client.exe
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Client.pdb
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\MetroFramework.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Server.exe
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\SimpleTcp.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Server.pdb
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Server.exe.config
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\SimpleTcp.xml
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\Syroot.KnownFolders.xml
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.exe
+C:\Users\hydon\Documents\GitHub\MesajlasmaUygulamasi\MesajlasmaUygulamasi\Client\obj\Debug\Client.pdb

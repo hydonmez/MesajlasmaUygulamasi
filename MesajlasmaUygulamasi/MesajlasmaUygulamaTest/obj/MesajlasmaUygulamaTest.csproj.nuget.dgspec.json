@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj": {}
+    "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj": {
+    "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj",
+        "projectUniqueName": "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj",
         "projectName": "MesajlasmaUygulamaTest",
-        "projectPath": "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj",
+        "projectPath": "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\MesajlasmaUygulamaTest\\MesajlasmaUygulamaTest.csproj",
         "packagesPath": "C:\\Users\\hydon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\MesajlasmaUygulamaTest\\obj\\",
+        "outputPath": "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\MesajlasmaUygulamaTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hydon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\Server\\Server.csproj": {
-                "projectPath": "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\Server\\Server.csproj"
+              "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\Server\\Server.csproj": {
+                "projectPath": "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\Server\\Server.csproj"
               }
             }
           }
@@ -80,11 +80,11 @@
         }
       }
     },
-    "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\Server\\Server.csproj": {
+    "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\Server\\Server.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\hydon\\Desktop\\Mesajlasma Uygulamasi\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\hydon\\Documents\\GitHub\\MesajlasmaUygulamasi\\MesajlasmaUygulamasi\\Server\\Server.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

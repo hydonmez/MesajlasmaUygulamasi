@@ -103,55 +103,7 @@ namespace Server
             try
             {
 
-                if (lstClientIp.Items.Count != 0)//client açık ise yapilacaklar 
-                {
-                    if (txtMesaj.Text == "")//textbox boş ise uyarı verildi
-                    {
-                        MessageBox.Show(" Mesaj Kutusu Boş Geçilemez! ");
-                    }
-                    else if (chckBoxSha256.Checked == true && chckBoxSnp.Checked == true)//birden fazla secim varsa herhangi bir islem yapmaz
-                    {
-                        MessageBox.Show(" Lütfen Sadece Bir Şifreleme Algoritması Seçiniz! ");
-                    }
-                    else if (chckBoxSha256.Checked == true)//sha 256 secilmisse sha256 sifrelemesi yapar
-                    {
-                        Sha256Sifreleme sha256 = new Sha256Sifreleme();//sha sifreleme algoritmasi icin bir nesne yaratildi
-
-                        lstClientIp.SelectedIndex = 0;
-                        Mesaj = "sha" + sha256.MetniSifrele(txtMesaj.Text);//mesaj sha ile sifrelendi ve başına sha olduğu belli olması için etiket eklendi
-                        if (server.IsListening) //server dinliyorsa
-                        {
-                            lstClientIp.SelectedIndex = 0;
-                            server.Send(lstClientIp.SelectedItem.ToString(), Mesaj);//secilen ıp ye mesajı gönder
-                            txtSohbetEkrani.Text += $"Server: {txtMesaj.Text}{Environment.NewLine}";//Server: mesajı
-                            txtMesaj.Text = string.Empty;
-                            GC.Collect();
-                        }
-                    }
-                    else if (chckBoxSnp.Checked == true)//spn secilmisse spn ile ilgili sifreleme yapar
-                    {
-                        MesajIslemleri mesajIslemleri = new MesajIslemleri();//mesajdaki turkce karakterlerini duzeltmek icin
-                        Sifre = spn.sifrele(mesajIslemleri.TurkceKarakterDuzelt(txtMesaj.Text));//txtboxa girilen mesaj ilk once ascii karakterler uygun hale getirilir sonra ve sifrele metodundan yararlanilarak bitli sifresi daaha sonra kullanilmak uzere bir stringe atilir
-                        Mesaj = spn.sifreliMesajYaz(Sifre);//sifre degiskeninde sifrelenmis 2 lik sistemde olusan mesaj karakter seklinde gosterilmek uzere sifreliMesaj yaz fonksiyonuna gonderilir
-                        lstClientIp.SelectedIndex = 0;
-                        if (server.IsListening) //server dinliyorsa
-                        {
-                            server.Send(lstClientIp.SelectedItem.ToString(), Sifre);//secilen ıp ye mesajı gönder
-                            txtSohbetEkrani.Text += $"Server: {txtMesaj.Text}{Environment.NewLine}";//Server: mesajı
-                            txtMesaj.Text = string.Empty;
-                        }
-                    }
-
-                    else//hicbir sifreleme algoritmasi secilmemisse yapilacak durum
-                    {
-                        MessageBox.Show(" Lütfen Sadece Bir Şifreleme Algoritması Seçiniz! ");
-                    }
-
-                }
-                else
-                {
-                    MessageBox.Show(" Lütfen Client'i Başlatınız ");
-                }
+                MesajGonder(txtMesaj.Text);//Mesaj MesajGonderMetoduna gonderilir
             }
             catch (Exception ex)
             {
@@ -286,6 +238,78 @@ namespace Server
             {
                 MessageBox.Show(ex.Message + " Yöneticinizle İletişime Geçiniz! ");
             }
+        }
+        private void MesajGonder(string mesaj)
+        {
+            if (MesajKontrol() == true && CheckBoxKontrol() == true && ClienteBagliMi() == true)
+            {
+                if (chckBoxSha256.Checked == true)//sha 256 secilmisse sha256 sifrelemesi yapar
+                {
+                    Sha256Sifreleme sha256 = new Sha256Sifreleme();//sha sifreleme algoritmasi icin bir nesne yaratildi
+
+                    lstClientIp.SelectedIndex = 0;
+                    Mesaj = "sha" + sha256.MetniSifrele(txtMesaj.Text);//mesaj sha ile sifrelendi ve başına sha olduğu belli olması için etiket eklendi
+
+                    lstClientIp.SelectedIndex = 0;
+                    server.Send(lstClientIp.SelectedItem.ToString(), Mesaj);//secilen ıp ye mesajı gönder
+                    txtSohbetEkrani.Text += $"Server: {txtMesaj.Text}{Environment.NewLine}";//Server: mesajı
+                    txtMesaj.Text = string.Empty;
+                    GC.Collect();
+
+                }
+                else //spn secilmisse spn ile ilgili sifreleme yapar
+                {
+                    MesajIslemleri mesajIslemleri = new MesajIslemleri();//mesajdaki turkce karakterlerini duzeltmek icin
+                    Sifre = spn.sifrele(mesajIslemleri.TurkceKarakterDuzelt(txtMesaj.Text));//txtboxa girilen mesaj ilk once ascii karakterler uygun hale getirilir sonra ve sifrele metodundan yararlanilarak bitli sifresi daaha sonra kullanilmak uzere bir stringe atilir
+                    Mesaj = spn.sifreliMesajYaz(Sifre);//sifre degiskeninde sifrelenmis 2 lik sistemde olusan mesaj karakter seklinde gosterilmek uzere sifreliMesaj yaz fonksiyonuna gonderilir
+                    lstClientIp.SelectedIndex = 0;
+                    server.Send(lstClientIp.SelectedItem.ToString(), Sifre);//secilen ıp ye mesajı gönder
+                    txtSohbetEkrani.Text += $"Server: {txtMesaj.Text}{Environment.NewLine}";//Server: mesajı
+                    txtMesaj.Text = string.Empty;
+
+                }
+            }
+
+        }
+        private bool ClienteBagliMi()//Client baglanti durumu kontrol edilir
+        {
+
+            if (lstClientIp.Items.Count != 0 && server.IsListening == true)
+            {
+                return true;
+            }
+            else
+            {
+                MessageBox.Show("Client ile Baglantinizi Saglayiniz");
+                return false;
+            }
+        }
+        public bool MesajKontrol()//mesaj alani bos gecildimi kontrol edilir
+        {
+            if (txtMesaj.Text != "")
+            {
+                return true;
+            }
+            else
+            {
+                MessageBox.Show("Mesaj Kutusu Boş Geçilemez!");
+                return false;
+            }
+        }
+        public bool CheckBoxKontrol()//birden fazla veya hiç bir mesaj kutusu seçili değil mi kontrol edilir
+        {
+            if (chckBoxSha256.Checked == true && chckBoxSnp.Checked == true)
+            {
+                MessageBox.Show("Lütfen Sadece Bir Sifreleme Algoritmasi Seciniz");
+                return false;
+
+            }
+            else if (chckBoxSha256.Checked == false && chckBoxSnp.Checked == false)
+            {
+                MessageBox.Show(" Lütfen Bir Şifreleme Algoritması Seçiniz! ");
+                return false;
+            }
+            return true;
         }
     }
 }
